@@ -1,6 +1,6 @@
 module dagger1
 
-go 1.25.0
+go 1.26.10
 
 require (
 	dagger.io/dagger v0.4.3
